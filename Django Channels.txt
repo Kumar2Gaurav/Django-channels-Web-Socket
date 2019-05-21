@@ -1,0 +1,1 @@
+Django channels creating websocket for bi directional communication
